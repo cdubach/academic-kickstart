@@ -72,8 +72,8 @@ user_groups:
 - Principal Investigator
 ---
 
-Hi, I'm Christophe Dubach, a new Associate Professor at McGill University (starting January 2020).
-Prior to that, I was a Reader (Associate Professor) at the University of Edinburgh.
+I'm Christophe Dubach, an Associate Professor jointly appointed in the department of [Electrical and Computer (ECE)](https://www.mcgill.ca/ece/) and the school of [Computer Science (CS)](https://www.cs.mcgill.ca) at [McGill University](https://www.mcgill.ca/) (starting January 2020). 
+Prior to that, I was a Reader (Associate Professor) at the [University of Edinburgh](https://www.ed.ac.uk).
 
 My research interests include data-prallel language design and implementation, high-level code generation and optimisation for parallel hardware (e.g. GPU, FPGAs), architecture design space exploration, and the use of machine-learning techniques applied to all these topics.
 

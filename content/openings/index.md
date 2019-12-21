@@ -31,7 +31,7 @@ Possible research topics include:
 
 # How to contact me
 
-Before applying formally, feel free to contact me by email (christophe.dubach@ed.ac.uk).
+Before applying formally, feel free to contact me by email (christophe.dubach@mcgill.ca).
 {{% alert warning %}}
 Please follow the following instructions when writing your email to increase your chances of receiving a reply:
 {{% /alert %}}

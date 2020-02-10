@@ -17,14 +17,14 @@ weight = 37
 
 ## Current courses (McGill University):
 
-| Code     | Course                   | Department |  Website  |    Year |   Semestre |
+| Code     | Course                   | Department |  Website  |    Year |   Semester |
 | :------- | :----------------        | :-----:    |:-----:    | :----:  | :--------: |
-| ECSE324  | Computer Organization    | ECE        | TBC       |   2020  |     Winter |
+| ECSE324  | Computer Organization    | ECE        | [link][2] |   2020  |     Winter |
 
 
 ## Past courses (Edinburgh University):
 
-| Code      | Course                   | Website   |    Year    |   Semestre |
+| Code      | Course                   | Website   |    Year    |   Semester |
 | :-------  | :----------------        | :-----:   | :----:     | :--------: |
 | INFR10053 | Compiling Techniques     | [link][1] |   2019-20  |          1 |
 | INFR10053 | Compiling Techniques     | [link][1] |   2018-19  |          1 |
@@ -35,3 +35,4 @@ weight = 37
 
 
 [1]: http://www.inf.ed.ac.uk/teaching/courses/ct
+[2]: https://mcgill.ca/study/2019-2020/courses/ecse-324

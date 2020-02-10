@@ -90,11 +90,11 @@ phone = "514-398-8720"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3480 University Street, Room 758", city = "Montreal", region = "QC", postcode = "H3A 0E9", country = "Canada", country_code = "CA"}
+address = {street = "3480 University Street<br>McConnell Engineering Building - Room 758", city = "Montreal", region = "QC", postcode = "H3A 0E9", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "45.506093", longitude = "-73.576191"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -182,7 +182,7 @@ plugins_js  = []
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
-  en-ca = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}  
+  en-ca = {order = ['street',  'city', 'region', 'postcode','country'], delimiters = ['<br>', ', ', '<br>', '<br>']}  
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}

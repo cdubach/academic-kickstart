@@ -72,7 +72,7 @@ user_groups:
 - Principal Investigator
 ---
 
-I'm an Associate Professor jointly appointed in the department of [Electrical and Computer (ECE)](https://www.mcgill.ca/ece/) and the school of [Computer Science (CS)](https://www.cs.mcgill.ca) at [McGill University](https://www.mcgill.ca/). 
+I'm an Associate Professor jointly appointed in the department of [Electrical and Computer Engineering (ECE)](https://www.mcgill.ca/ece/) and the school of [Computer Science (CS)](https://www.cs.mcgill.ca) at [McGill University](https://www.mcgill.ca/). 
 I also hold a [Canada CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs) at [Mila](https://mila.quebec/).
 Up until 2019, I was a Reader (Associate Professor) at the [University of Edinburgh](https://www.ed.ac.uk).
 

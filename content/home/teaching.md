@@ -17,10 +17,16 @@ weight = 37
 
 ## Current courses (McGill University):
 
-| Code     | Course                   | Department |  Website  |    Year |   Semester |
+| Code     | Course                   | Department |  Website  |    Year |   Term     |
+| :------- | :----------------        | :-----:    |:-----:    | :----:  | :--------: |
+| COMP520  | Compiler Design          | CS         | [link][4] |   2021  |   Winter   |
+| ECSE324  | Computer Organization    | ECE        | [link][3] |   2020  |     Fall   |
+
+## Past courses (McGill University):
+
+| Code     | Course                   | Department |  Website  |    Year |   Term     |
 | :------- | :----------------        | :-----:    |:-----:    | :----:  | :--------: |
 | ECSE324  | Computer Organization    | ECE        | [link][2] |   2020  |     Winter |
-
 
 ## Past courses (Edinburgh University):
 
@@ -36,3 +42,5 @@ weight = 37
 
 [1]: http://www.inf.ed.ac.uk/teaching/courses/ct
 [2]: https://mcgill.ca/study/2019-2020/courses/ecse-324
+[3]: https://mcgill.ca/study/2020-2021/courses/ecse-324
+[4]: https://www.mcgill.ca/study/2020-2021/courses/comp-520

@@ -28,11 +28,13 @@
 @string{ pact14="Proceedings of the 23rd international conference on Parallel architectures and compilation" }
 
 @string{ array14="Proceedings of ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming" }
+@string{ array19="Proceedings of ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming" }
 
 @string{ trust14="Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering" }
 
 @string{ gpgpu14="Proceedings of Workshop on General Purpose Processing Using GPUs" }
 @string{ gpgpu16="Proceedings of the 2016 Workshop on General Purpose Processing on Graphics Processing Units" }
+@string{ gpgpu20="13th Annual Workshop on General Purpose Processing using Graphics Processing Unit" }
 
 @string{ hipeac16="International Conference on High Performance Embedded Architectures \& Compilers"}
 
@@ -54,13 +56,102 @@
 
 @string{ dafx17="Proceedings of the 20th International Conference on Digital Audio Effects" }
 
+@string{ apsec18="25th Asia-Pacific Software Engineering Conference" }
+
+@string{ fhpnc19="Proceedings of the 8th {ACM} {SIGPLAN} International Workshop on Functional High-Performance and Numerical Computing" }
+
+@string{ cc20="29th International Conference on Compiler Construction" }
+
+
+@article{stoltzfus20taco,
+  author    = {Larisa Stoltzfus and Bastian Hagedorn and Michel Steuwer and Sergei Gorlatch and Christophe Dubach},
+  title     = {Tiling Optimizations for Stencil Computations Using Rewrite Rules in Lift},
+  journal   = {ACM Transactions on Architecture and Code Optimization, <span style="font-weight:bold;color:black">ACM TACO</span>},
+  volume    = {16},
+  number    = {4},
+  year      = {2020},
+  keywords   = {reviewed}
+}
+
+
+@inproceedings{pizzuti20sparse,
+  author    = {Federico Pizzuti and
+               Michel Steuwer and
+               Christophe Dubach},
+  title     = {Generating fast sparse matrix vector multiplication from a high level generic functional {IR}},
+  booktitle = cc20,
+  series    = {CC@CGO},
+  year      = {2020},
+  keywords   = {reviewed}
+}
+
+
+@inproceedings{remmelg20hlfeat,
+ author    = {Toomas Remmelg and
+               Bastian Hagedorn and
+               Lu Li and
+               Michel Steuwer and
+               Sergei Gorlatch and
+               Christophe Dubach},
+  title     = {High-level hardware feature extraction for {GPU} performance prediction of stencils},
+  booktitle = gpgpu20,
+  year      = {2020},
+  series    = {GPGPU@PPoPP},
+  keywords   = {workshop}
+}
+
+@inproceedings{mogers20auto,
+  author    = {Naums Mogers and
+               Valentin Radu and
+               Lu Li and
+               Jack Turner and
+               Michael F. P. O'Boyle and
+               Christophe Dubach},
+  title     = {Automatic generation of specialized direct convolutions for mobile GPUs},
+  booktitle = gpgpu20,
+  year      = {2020},
+  series    = {GPGPU@PPoPP},
+  keywords  = {workshop}
+}
 
 
 
 
+@inproceedings{pizzuti19posdep,
+  author    = {Federico Pizzuti and Michel Steuwer and Christophe Dubach},
+  title     = {Position-dependent arrays and their application for high performance code generation},
+  booktitle = fhpnc19,
+  series    = {FHPNC@ICFP},
+  year      = {2019},
+  keywords  = {reviewed}
+}
+
+
+@inproceedings{kristien19hls,
+  author    = {Martin Kristien and
+               Bruno Bodin and
+               Michel Steuwer and
+               Christophe Dubach},
+  title     = {High-level synthesis of functional patterns with Lift},
+  booktitle = array19,
+  series    = {ARRAY@PLDI},
+  year      = {2019},
+  keywords = {reviewed}
+}
 
 
 
+@inproceedings{yaneva18accelerated,
+  author    = {Vanya Yaneva and
+               Arnav Kapoor and
+               Ajitha Rajan and
+               Christophe Dubach},
+  title     = {Accelerated Finite State Machine Test Execution Using GPUs},
+  booktitle = apsec18,
+  series    = {<span style="font-weight:bold;color:black">APSEC</span>},
+  year      = {2018},
+  keywords = {reviewed}
+}
 
 @inproceedings{ginsbach18automatic,
   title = {Automatic Matching of Legacy Code to Heterogeneous APIs: An Idiomatic Approach},
@@ -104,7 +195,9 @@
   keywords = {workshop}
 }
 
-@article{DBLP:journals/corr/abs-1710-08332,
+
+
+@article{atkey17preserve,
   author    = {Robert Atkey and
                Michel Steuwer and
                Sam Lindley and
@@ -192,10 +285,15 @@
   keywords = {reviewed}
 }  
   
-  
-OpenCL JIT Compilation for Dynamic Programming Languages
-J Fumero, M Steuwer, L Stadler, C Dubach
-MoreVMs Workshop. Collocated with Programing 2017
+
+@inproceedings{fumero17morevm,
+  title = {OpenCL JIT Compilation for Dynamic Programming Languages},
+  author = {Juan Fumero and Michel Steuwer and Lukas Stadler and Christophe Dubach},
+  booktitle = {MoreVMs Workshop. Collocated with Programing},
+  series = {MoreVM},
+  year = {2017},
+  keywords = {workshop}
+}
 
 @article{tomusk16selecting,
   title = {Selecting Heterogeneous Cores for Diversity},
@@ -220,8 +318,6 @@ MoreVMs Workshop. Collocated with Programing 2017
 }
 
 
-
-
 @inproceedings{micolet16dynmulticore,
   title = {A Machine Learning Approach to Mapping Streaming Workloads to Dynamic Multicore Processors},
   author = {Paul-Jules Micolet and Aaron Smith and Christophe Dubach},
@@ -242,7 +338,7 @@ MoreVMs Workshop. Collocated with Programing 2017
   keywords = {workshop}
 }
 
-article{tomusk16hipeac,
+@article{tomusk16hipeac,
   title = {Four Metrics to Evaluate Heterogeneous Multicores},
   author = {Erik Tomusk and Christophe Dubach and Michael O'Boyle},
   journal = {ACM Transactions on Architecture and Code Optimization, <span style="font-weight:bold;color:black">ACM TACO<span>},
@@ -314,7 +410,7 @@ article{tomusk16hipeac,
   keywords = {reviewed}
 }
 
-@inproceedings{miller2015carpet,
+@inproceedings{miller15carpet,
   title = {Carpet Unrolling Descriptors for Character Control On Uneven Terrain},
   author={Mark Miller and Daniel Holden and Rami Al-Ashqar and Christophe Dubach and Kenny Mitchell and Taku Komura},
   booktitle= mig15,
@@ -324,7 +420,7 @@ article{tomusk16hipeac,
 }
 
 
-@inproceedings{fumero2015runtime,
+@inproceedings{fumero15runtime,
   title={Runtime Code Generation and Data Management for Heterogeneous Computing in Java},
   author={Juan Jos{\'e} Fumero and Toomas Remmelg and Michel Steuwer and Christophe Dubach},
   booktitle= pppj15,
@@ -335,7 +431,7 @@ article{tomusk16hipeac,
 }
 
 
-article{steuwer2015patterns,
+@article{steuwer15patterns,
   title={Patterns and Rewrite Rules for Systematic Code Generation (From High-Level Functional Patterns to High-Performance OpenCL Code)},
   author={Steuwer, Michel and Fensch, Christian and Dubach, Christophe},
   journal={arXiv Technical Report arXiv:1502.02389},
@@ -343,7 +439,7 @@ article{steuwer2015patterns,
   url = {papers/steuwer15arxiv.pdf}
 }
 
-@inproceedings{magni2014automatic,
+@inproceedings{magni14automatic,
   title={Automatic optimization of thread-coarsening for graphics processors},
   author={Magni, Alberto and Dubach, Christophe and O'Boyle, Michael},
   booktitle= pact14,
@@ -355,7 +451,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 }
 
-@inproceedings{tomusk2014measuring,
+@inproceedings{tomusk14measuring,
   title={Measuring flexibility in single-ISA heterogeneous processors},
   author={Erik Tomusk and Christophe Dubach and Micahel O'Boyle},
   booktitle= pact14,
@@ -367,7 +463,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 }
 
-@inproceedings{fumero2014composable,
+@inproceedings{fumero14composable,
   title={A Composable Array Function Interface for Heterogeneous Computing in Java},
   author={Fumero, Juan Jos{\'e} and Steuwer, Michel and Dubach, Christophe},
   booktitle=array14,
@@ -377,7 +473,7 @@ article{steuwer2015patterns,
   keywords = {workshop}
 }
 
-@inproceedings{fursin2014community,
+@inproceedings{fursin14community,
   title={Community-driven reviewing and validation of publications},
   author={Fursin, Grigori and Dubach, Christophe},
   booktitle= trust14,
@@ -387,7 +483,7 @@ article{steuwer2015patterns,
   keywords = {workshop}
 }
 
-@inproceedings{magni2014exploiting,
+@inproceedings{magni14exploiting,
   title={Exploiting gpu hardware saturation for fast compiler optimization},
   author={Magni, Alberto and Dubach, Christophe and O'Boyle, Michael},
   booktitle= gpgpu14,
@@ -409,7 +505,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 } 
 
-@article{dubach2013dynamic,
+@article{dubach13dynamic,
   title={Dynamic microarchitectural adaptation using machine learning},
   author={Dubach, Christophe and Jones, Timothy M and Bonilla, Edwin V},
   journal={ACM Transactions on Architecture and Code Optimization, <span style="font-weight:bold;color:black">ACM TACO</span>},
@@ -435,7 +531,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 } 
 
-@article{dubach2012exploring,
+@article{dubach12exploring,
   title={Exploring and predicting the effects of microarchitectural parameters and compiler optimizations on performance and energy},
   author={Dubach, Christophe and Jones, Timothy M and O'boyle, Michael FP},
   journal={ACM Transactions on Embedded Computing Systems, <span style="font-weight:bold;color:black">ACM TECS</span>},
@@ -449,7 +545,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 }
 
-@article{dubach2011empirical,
+@article{dubach11empirical,
   title={An empirical architecture-centric approach to microarchitectural design space exploration},
   author={Dubach, Christophe and Jones, Timothy M and O'Boyle, Michael FP},
   journal={IEEE Transactions on Computers, <span style="font-weight:bold;color:black">IEEE TC</span>},
@@ -578,7 +674,7 @@ article{steuwer2015patterns,
   keywords = {reviewed}
 }
  
-@article{dubach2005java,
+@article{dubach05java,
   title={Java Byte Code synthesis for reconfigurable computing platforms},
   author={Dubach, Christophe},
   journal={Master's thesis},

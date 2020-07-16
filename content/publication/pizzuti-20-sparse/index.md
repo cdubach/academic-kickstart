@@ -1,0 +1,12 @@
+---
+title: "Generating fast sparse matrix vector multiplication from a high level generic functional IR"
+date: 2020-01-01
+publishDate: 2020-07-16T15:22:44.228882Z
+authors: ["Federico Pizzuti", "Michel Steuwer", "Christophe Dubach"]
+publication_types: ["1"]
+abstract: ""
+featured: false
+publication: "*29th International Conference on Compiler Construction (<span style=\"font-weight:bold\">CC@CGO</span>)*"
+tags: ["reviewed"]
+---
+

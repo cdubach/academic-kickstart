@@ -1,12 +1,12 @@
 ---
 title: "Fast compiler optimisation evaluation using code-feature based performance prediction"
 date: 2007-01-01
-publishDate: 2019-11-04T11:36:47.827840Z
+publishDate: 2020-07-16T15:22:44.238090Z
 authors: ["Christophe Dubach", "John Cavazos", "Björn Franke", "Grigori Fursin", "Michael F. P. O'Boyle", "Olivier Temam"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 4th International Conference on Computing Frontiers*"
+publication: "*Proceedings of the 4th International Conference on Computing Frontiers (<span style=\"font-weight:bold\"><span style=\"font-weight:bold;color:black\">CF</span></span>)*"
 tags: ["reviewed"]
 url_pdf: "papers/dubach07cf.pdf"
 ---

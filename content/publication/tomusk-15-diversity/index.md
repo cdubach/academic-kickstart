@@ -1,7 +1,7 @@
 ---
 title: "Diversity: A Design Goal for Heterogeneous Processors"
 date: 2015-01-01
-publishDate: 2019-11-04T11:36:47.822295Z
+publishDate: 2020-07-16T15:22:44.234603Z
 authors: ["Erik Tomusk", "Christophe Dubach", "Michael O'Boyle"]
 publication_types: ["2"]
 abstract: ""

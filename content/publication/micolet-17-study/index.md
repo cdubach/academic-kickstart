@@ -1,7 +1,7 @@
 ---
 title: "A Study of Dynamic Phase Adaptation Using a Dynamic Multicore Processor"
 date: 2017-01-01
-publishDate: 2019-11-04T11:36:47.818312Z
+publishDate: 2020-07-16T15:22:44.231866Z
 authors: ["Paul-Jules Micolet", "Aaron Smith", "Christophe Dubach"]
 publication_types: ["2"]
 abstract: ""

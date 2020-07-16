@@ -1,7 +1,7 @@
 ---
 title: "Selecting Heterogeneous Cores for Diversity"
 date: 2016-01-01
-publishDate: 2019-11-04T11:36:47.820021Z
+publishDate: 2020-07-16T15:22:44.233065Z
 authors: ["Erik Tomusk", "Christophe Dubach", "Michael O'boyle"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Four Metrics to Evaluate Heterogeneous Multicores"
 date: 2016-01-01
-publishDate: 2019-11-04T11:36:47.822009Z
+publishDate: 2020-07-16T15:22:44.234438Z
 authors: ["Erik Tomusk", "Christophe Dubach", "Michael O'Boyle"]
 publication_types: ["2"]
 abstract: ""

@@ -1,12 +1,12 @@
 ---
 title: "A Predictive Model for Dynamic Microarchitectural Adaptivity Control"
 date: 2010-01-01
-publishDate: 2019-11-04T11:36:47.825708Z
+publishDate: 2020-07-16T15:22:44.237012Z
 authors: ["Christophe Dubach", "Timothy M. Jones", "Edwin V. Bonilla", "Michael F. P. O'Boyle"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 43rd Annual IEEE/ACM International Symposium on Microarchitecture*"
+publication: "*Proceedings of the 43rd Annual IEEE/ACM International Symposium on Microarchitecture (<span style=\"font-weight:bold\"><span style=\"font-weight:bold;color:black\">MICRO</span></span>)*"
 tags: ["reviewed"]
 url_pdf: "papers/dubach10micro.pdf"
 ---

@@ -48,7 +48,7 @@ Please note that it is YOUR responsibility for checking for pre/co-requisites, w
 This includes the mandatory list of courses, which courses count towards the CS minor degree, the number of credits required, if overlaps are allowed with your major degree, and so on.
 
 2. Please contact the CS Senior Admin. & Student Affairs Coordinator (<liette.chin@mcgill.ca>), to obtain the relevant CS minor form for your degree.
-When contacting her, please state what is your current major degree and your faculty.
+When contacting them, please state what is your current major degree and your faculty.
 
 3. Once you have the form, your next step should be to make an initial selection of the courses you are interested to take and list them on the form.
 Even if you are unsure, you should plan as far ahead as possible and have a coherent plan in place.
@@ -61,7 +61,7 @@ Once we are both happy with the form, I will sign it and return it to you, cc'in
 
 # Completing the CS minor form
 
-When completing the form, fill up as much as possible and pay attend to all the instructions.
+When completing the form, fill up as much as possible and pay attention to all the instructions.
 In particular:
 * if you are listing a course that you haven't taken yet, leave the Grade column empty
 * if credit overlap is permitted and a course credit overlap, indicate it in the comments

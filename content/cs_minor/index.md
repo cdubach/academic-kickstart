@@ -66,6 +66,7 @@ In particular:
 * if you are listing a course that you haven't taken yet, leave the Grade column empty
 * if credit overlap is permitted and a course credit overlap, indicate it in the comments
 * even if you are unsure, fill up the expected Term/Year of any future courses you intend to take
+* under advisor, fill in the name of your Major degree advisor
 
 In case you need to change a course on the form in the future, simply contact the CS Senior Admin. & Student Affairs Coordinator (<liette.chin@mcgill.ca>).
 Their will then let you know if you a new form is required or not.

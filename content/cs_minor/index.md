@@ -72,6 +72,15 @@ In case you need to change a course on the form in the future, simply contact th
 Their will then let you know if you a new form is required or not.
 
 
+
+# FAQ (Frequently Asked Questions)
+
+### Can I take COMP-400 as part of the Complementary Courses? ###
+
+Unfortunately, project courses such as COMP-400 and COMP-364 cannot be counted toward the CS minor degree.
+
+
+
 # How to contact me
 
 {{% alert warning %}}

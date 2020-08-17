@@ -17,7 +17,13 @@ This page serves as a general guideline for all matters related to applying for 
 
 # General information
 
-The general regulations for the CS minor degree can be found [here](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-minor-computer-science).
+The general regulations for the CS minor degree can be found here depending on your faculty:
+
+* [Art & Science](https://www.mcgill.ca/study/2020-2021/faculties/basc/undergraduate/programs/bachelor-arts-ba-minor-concentration-computer-science#ba_csi8_minor_as)
+* [Engineering](https://www.mcgill.ca/study/2020-2021/faculties/engineering/undergraduate/programs/bachelor-engineering-beng-minor-computer-science)
+* [Science](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-minor-computer-science)
+
+
 As a CS advisor, my role is to guide you through this process and answer any questions you may have about your choice of courses.
 If you have any administrative questions, (e.g. course registration issues), these should be directed to the CS admin (<liette.chin@mcgill.ca>)
 

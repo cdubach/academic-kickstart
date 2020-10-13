@@ -38,19 +38,19 @@ Please follow the following instructions when writing your email to increase you
 
 * **Subject**: "Prospective student for a position in your group"
 * **Body**:
- * Specify if you are interested to do a MSc, PhD or undergrad internship
- * Are you a local or international student?
- * For international students, do you have your TOFEL (or equivalent) and/or GRE results?
- * What attracts you to systems research?
- * When would you be able to join?
+  * Specify if you are interested to do a MSc, PhD or undergrad internship
+  * Are you a local or international student?
+  * For international students, do you have your TOFEL (or equivalent) and/or GRE results?
+  * What attracts you to systems research?
+  * When would you be able to join?
 * **Attachments**:
- * CV
- * Short research statement (1-2 pages)
- * MSc and/or undergrad research thesis/report
- * Transcripts from undergrad/MSc (no need for official documents at this stage)
- * Any publications you may have 
- * TOFEL/IELTS/... English test scores (if available)
- * GRE results (if available)
+  * CV
+  * Short research statement (1-2 pages)
+  * MSc and/or undergrad research thesis/report
+  * Transcripts from undergrad/MSc (no need for official documents at this stage)
+  * Any publications you may have 
+  * TOFEL/IELTS/... English test scores (if available)
+  * GRE results (if available)
 
 
 # Official application information:

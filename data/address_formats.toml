@@ -1,0 +1,1 @@
+en-ca = {order = ['street',  'city', 'region', 'postcode','country'], delimiters = ['<br>', ', ', '<br>', '<br>']}

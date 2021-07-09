@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christophe Schlaak
+title: Christof Schlaak
 
 # Username (this should match the folder name)
 authors:

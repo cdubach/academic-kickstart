@@ -3,10 +3,10 @@
 
 title: "Design Space Exploration for Dynamically Reconfigurable Multicore"
 summary: ""
-authors: [ChristopheDubach, PaulMicolet]
+authors: [admin, PaulMicolet]
 tags: []
 categories: []
-date: 2019-11-04T15:48:52Z
+date: 2014-09-04T15:48:52Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

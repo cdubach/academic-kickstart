@@ -3,10 +3,10 @@
 
 title: "High-Level Synthesis of Neural Networks on FPGAs"
 summary: ""
-authors: [ChristopheDubach, ChristofSchlaak, AndrejIvanis]
+authors: [admin, ChristopheSchlaak, TzungHanJuang, HamzaJaved, AyanChakraborty, JiaxuanCai, AndrejIvanis, MartinKristien,]
 tags: []
 categories: []
-date: 2019-11-04T15:50:41Z
+date: 2016-09-04T15:50:41Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -48,4 +48,6 @@ However, deploying neural networks on FPGAs (like programming parallel accelerat
 
 Lift addresses these challenges by offering a high-level functional, data-parallel language, which allows the user to efficiently develop an application independently of the target hardware platform. Then, rewrite rules in the Lift compiler open a vast design space of possible implementations for this abstract system specification. This design space is explored to find a suitable solution, which satisfies the performance and energy requirements. In order to exploit the parallel structure of NNs, the compiler employs pipelining mechanisms and allocates distributed on-chip memory on the FPGA. Timing behaviour and scheduling is introduced until finally a Hardware description language (HDL) code is emitted, that can be used to generate the bitstream for the FPGA.
 
-Supported by {{< figure src="Microsoft_Research_logo.jpg" title="Microsoft Research" lightbox="true" >}}
+Supported by: {{< figure src="Microsoft_Research_logo.jpg" title="[Microsoft Research](https://www.microsoft.com/en-us/research/)" lightbox="true" >}}
+{{< figure src="cifar.jpg" title="[CIFAR AI Chair](https://cifar.ca/ai/canada-cifar-ai-chairs/)" lightbox="true" >}}
+{{< figure src="nserc.jpg" title="[NSERC](https://www.nserc-crsng.gc.ca/)" lightbox="true" >}}

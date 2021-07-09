@@ -3,10 +3,10 @@
 
 title: "Lift"
 summary: ""
-authors: []
+authors: [admin,MichelSteuwer,LuLi,ThibautLutz,ToomasRemmelg,LarisaStoltzfus,FedericoPizzuti,NaumsMogers,AdamHarries]
 tags: []
 categories: []
-date: 2019-11-04T15:40:33Z
+date: 2014-09-04T15:40:33Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.lift-project.org"

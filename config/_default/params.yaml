@@ -34,8 +34,9 @@ coordinates:
   longitude: '-73.576191'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-- "**ECSE-324**: TBD"
-- " **CS minor**: Monday 14:00-15:00"
+#- "**ECSE-324**: TBD"
+#- " **CS minor**: Monday 14:00-15:00"
+- "**Office hours**: Wed 9:00-9:30 & 15:00-15:30"
   
 #appointment_url: 'https://calendly.com'
 contact_links:

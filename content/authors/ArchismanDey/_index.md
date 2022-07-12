@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Hamza Javed
+title: Archisman Dey
 
 # Username (this should match the folder name)
 authors:
-- HamzaJaved
+-  ArchismanDey
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (McGill University)
+role: Summer 2022 McGill intern (visiting from IIT Guwahati)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 #bio: My research interests include data-prallel language design and implementation, high-level code generation and optimisation for parallel hardware (e.g. GPU, FPGAs), architecture design space exploration, and the use of machine-learning techniques applied to all these topics. 
 
 interests:
-- High-Level Syntehsis for FPGAs for irregular applications
+- FFT Hardware design
 #- Parallel programming language design
 #- Hardware design space exploration
 #- Heterogeneous computing
@@ -69,6 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD students
+- Interns
 ---
 

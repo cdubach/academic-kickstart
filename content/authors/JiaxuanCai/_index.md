@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Summer 2021 intern (McGill University)
+role: Summer 2021 McGill intern (visiting from Chongqing University)
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Interns
+- Alumni Interns
 ---
 

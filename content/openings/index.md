@@ -30,7 +30,7 @@ Please only contact me if you have {{< /hl >}} :
 * A high interest in conducting system research;
 * Strong programming skills;
 * Good knowledge of Linux/Unix;
-* A high CGPA (average grade) of at least {{< hl >}} 3.8/4.0 {{< /hl >}} (see [equivalence for international applicants](https://www.mcgill.ca/gradapplicants/international/equivalency)).
+* A high CGPA (average grade) of at least {{< hl >}} 3.8/4.0 {{< /hl >}} (for international students, this usually translates to an average over 85%).
 
 
 
@@ -65,15 +65,15 @@ Please follow the following instructions when writing your email to increase you
 Given that I am affiliated with two departments, your official applications will be made to either CS or ECE depending on your research topic.
 More information can be found by following these links:
 
-* School of Computer Science: https://www.cs.mcgill.ca/academic/graduate/admission/
+* School of Computer Science: https://www.mcgill.ca/gradapplicants/programs/computer-science
 * Department of Electrical and Computer Engineering: https://mcgill.ca/ece/graduate/graduate
 
 Once we have discussed your application by email, and potentially via a conference call, please apply through the McGill application website in one of the two departments, selecting me as your preferred supervisor.
 Note that the deadlines are different in these two departments and for International and Canadian students.
 
 {{% callout warning %}}
-The deadlines for international students requiring financial support are:
+The deadlines for international students are:
 
-* CS: **January 1st** for Fall admission & **September 1st** for Winter admission
-* ECE: **December 15** for Fall admission & **August 1st** for Winter admission
+* CS: **January 1st** for Fall admission & **July 15th** for Winter admission
+* ECE: **December 15** for Fall admission & **July 15th** for Winter admission
 {{% /callout %}}

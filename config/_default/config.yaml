@@ -66,6 +66,12 @@ related:
     - name: categories
       weight: 70
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
 
 markup:
   _merge: deep
